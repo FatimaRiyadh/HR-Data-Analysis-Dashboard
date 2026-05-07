@@ -24,9 +24,7 @@ that help management make informed decisions regarding budget allocation, perfor
 
 4) Which department is the most efficient based on performance evaluation?
    The HR department is the most efficient with an average rating of 4.5, followed by the IT department with an average of 4.3.
-<p align="center">
-  <img src="pc4.png" width="400">
-</p>
+
 
 5) Is there a gap between salaries and performance in a particular department?
    We note that the Finance and Marketing departments receive good salaries, but their average performance is the lowest (3),
