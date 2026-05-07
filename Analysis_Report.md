@@ -6,7 +6,10 @@ that help management make informed decisions regarding budget allocation, perfor
 
 1) Which department currently has the largest number of employees?
    The IT department is the largest, with 4 employees.
-   
+<p align="center">
+  <img src="pc1.png" width="600">
+</p>
+
 2) What is the ratio of resigned employees to active ones?
    One employee resigned in the marketing department.
 
