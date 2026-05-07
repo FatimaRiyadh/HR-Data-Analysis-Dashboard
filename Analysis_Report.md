@@ -32,6 +32,6 @@ that help management make informed decisions regarding budget allocation, perfor
    We note that the Finance and Marketing departments receive good salaries, but their average performance is the lowest (3),
    which may indicate that these departments need training or restructuring.
 <p align="center">
-  <img src="pc5.png" width="400">
+  <img src="pc5.png" width="600">
 </p>
    
